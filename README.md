@@ -11,5 +11,3 @@ This repository contains the complete design files for a modern water bottle. Th
 *   **Swept Boss/Base:** Applied to create precise, realistic threads on the bottle neck and cap for a secure, leak-proof seal.
 *   **Ergonomic Grip:** Integrated surface fillets and cutouts for an enhanced, comfortable hand grip.
 *   **Multi-Body Assembly:** Includes a fully functional assembly combining the bottle body, threaded cap, and rubber gasket seal.
-## 📸 Renderings
-![Water Bottle Render](Renderings/main_render.png)
